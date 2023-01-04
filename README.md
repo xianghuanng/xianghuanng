@@ -1,4 +1,3 @@
-### xianghuanng <a href="https://github.com/xianghuanng/iBeats"><img align="right" width="150px" src="https://raw.githubusercontent.com/xianghuanng/iBeats/main/files/heart.svg"/></a>
 - 👋 Hi, I’m @xianghuanng
 <!---
 - 👀 I’m interested in ...
